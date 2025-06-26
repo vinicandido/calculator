@@ -4,7 +4,7 @@
   "description": "This project is a pratice, making a little bit about backend and frontend.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon calculator.js"
   },
   "repository": {
     "type": "git",
